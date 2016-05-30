@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# tos
+# TKPPL
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
@@ -16,6 +15,3 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
-=======
-# Tree-of-Savior
->>>>>>> 4f91725c22b313a300aad79a5e75feed632236de
